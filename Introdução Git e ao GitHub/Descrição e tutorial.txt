@@ -1,0 +1,2 @@
+Link para download do Git: https://git-scm.com/
+Git é um terminal de código distribuido.
